@@ -1,1 +1,6 @@
 Python Commands
+
+# Create venv for clone repo
+git clone name_repo
+cd name_repo
+python -m venv venv

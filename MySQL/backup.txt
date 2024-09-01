@@ -1,0 +1,1 @@
+mysqldump -v -u root -p basename > basename.sql
